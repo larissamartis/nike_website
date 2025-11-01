@@ -34,7 +34,8 @@ The goal was to create a minimal, performance-focused interface that highlights 
 
 
 ## 📸 Preview Website Page 
-![Website Page](nike-website.png) |
+![Website Page](nike-website.png) 
+![Landing Page](Nike landing page.png) )
 
 
 ⭐ *If you like this design, feel free to star this repository or connect with me for collaborations!*  
