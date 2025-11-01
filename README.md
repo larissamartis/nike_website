@@ -36,7 +36,7 @@ The goal was to create a minimal, performance-focused interface that highlights 
 ## 📸 Preview Website Page 
 ![Website Page](nike-website.png) 
 
-![Landing Page](Nike-landing-page.png) 
+![Landing Page](Nike landing page.png) 
 
 
 
